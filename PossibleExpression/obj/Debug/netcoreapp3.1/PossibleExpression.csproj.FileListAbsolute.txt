@@ -1,0 +1,13 @@
+D:\randd\general\PossibleExpression\bin\Debug\netcoreapp3.1\PossibleExpression.exe
+D:\randd\general\PossibleExpression\bin\Debug\netcoreapp3.1\PossibleExpression.deps.json
+D:\randd\general\PossibleExpression\bin\Debug\netcoreapp3.1\PossibleExpression.runtimeconfig.json
+D:\randd\general\PossibleExpression\bin\Debug\netcoreapp3.1\PossibleExpression.runtimeconfig.dev.json
+D:\randd\general\PossibleExpression\bin\Debug\netcoreapp3.1\PossibleExpression.dll
+D:\randd\general\PossibleExpression\bin\Debug\netcoreapp3.1\PossibleExpression.pdb
+D:\randd\general\PossibleExpression\obj\Debug\netcoreapp3.1\PossibleExpression.csprojAssemblyReference.cache
+D:\randd\general\PossibleExpression\obj\Debug\netcoreapp3.1\PossibleExpression.AssemblyInfoInputs.cache
+D:\randd\general\PossibleExpression\obj\Debug\netcoreapp3.1\PossibleExpression.AssemblyInfo.cs
+D:\randd\general\PossibleExpression\obj\Debug\netcoreapp3.1\PossibleExpression.csproj.CoreCompileInputs.cache
+D:\randd\general\PossibleExpression\obj\Debug\netcoreapp3.1\PossibleExpression.dll
+D:\randd\general\PossibleExpression\obj\Debug\netcoreapp3.1\PossibleExpression.pdb
+D:\randd\general\PossibleExpression\obj\Debug\netcoreapp3.1\PossibleExpression.genruntimeconfig.cache
