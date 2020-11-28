@@ -1,0 +1,13 @@
+D:\RandD\General\sumofdigits\obj\Debug\netcoreapp3.1\sumofdigits.csprojAssemblyReference.cache
+D:\RandD\General\sumofdigits\obj\Debug\netcoreapp3.1\sumofdigits.AssemblyInfoInputs.cache
+D:\RandD\General\sumofdigits\obj\Debug\netcoreapp3.1\sumofdigits.AssemblyInfo.cs
+D:\RandD\General\sumofdigits\obj\Debug\netcoreapp3.1\sumofdigits.csproj.CoreCompileInputs.cache
+D:\RandD\General\sumofdigits\bin\Debug\netcoreapp3.1\sumofdigits.exe
+D:\RandD\General\sumofdigits\bin\Debug\netcoreapp3.1\sumofdigits.deps.json
+D:\RandD\General\sumofdigits\bin\Debug\netcoreapp3.1\sumofdigits.runtimeconfig.json
+D:\RandD\General\sumofdigits\bin\Debug\netcoreapp3.1\sumofdigits.runtimeconfig.dev.json
+D:\RandD\General\sumofdigits\bin\Debug\netcoreapp3.1\sumofdigits.dll
+D:\RandD\General\sumofdigits\bin\Debug\netcoreapp3.1\sumofdigits.pdb
+D:\RandD\General\sumofdigits\obj\Debug\netcoreapp3.1\sumofdigits.dll
+D:\RandD\General\sumofdigits\obj\Debug\netcoreapp3.1\sumofdigits.pdb
+D:\RandD\General\sumofdigits\obj\Debug\netcoreapp3.1\sumofdigits.genruntimeconfig.cache
