@@ -1,0 +1,13 @@
+D:\RandD\NumbersPrintRecursion\bin\Debug\netcoreapp3.1\NumbersPrintRecursion.exe
+D:\RandD\NumbersPrintRecursion\bin\Debug\netcoreapp3.1\NumbersPrintRecursion.deps.json
+D:\RandD\NumbersPrintRecursion\bin\Debug\netcoreapp3.1\NumbersPrintRecursion.runtimeconfig.json
+D:\RandD\NumbersPrintRecursion\bin\Debug\netcoreapp3.1\NumbersPrintRecursion.runtimeconfig.dev.json
+D:\RandD\NumbersPrintRecursion\bin\Debug\netcoreapp3.1\NumbersPrintRecursion.dll
+D:\RandD\NumbersPrintRecursion\bin\Debug\netcoreapp3.1\NumbersPrintRecursion.pdb
+D:\RandD\NumbersPrintRecursion\obj\Debug\netcoreapp3.1\NumbersPrintRecursion.csprojAssemblyReference.cache
+D:\RandD\NumbersPrintRecursion\obj\Debug\netcoreapp3.1\NumbersPrintRecursion.AssemblyInfoInputs.cache
+D:\RandD\NumbersPrintRecursion\obj\Debug\netcoreapp3.1\NumbersPrintRecursion.AssemblyInfo.cs
+D:\RandD\NumbersPrintRecursion\obj\Debug\netcoreapp3.1\NumbersPrintRecursion.csproj.CoreCompileInputs.cache
+D:\RandD\NumbersPrintRecursion\obj\Debug\netcoreapp3.1\NumbersPrintRecursion.dll
+D:\RandD\NumbersPrintRecursion\obj\Debug\netcoreapp3.1\NumbersPrintRecursion.pdb
+D:\RandD\NumbersPrintRecursion\obj\Debug\netcoreapp3.1\NumbersPrintRecursion.genruntimeconfig.cache
