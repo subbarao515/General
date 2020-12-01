@@ -1,0 +1,13 @@
+D:\RandD\General\NQueenProblem\bin\Debug\netcoreapp3.1\NQueenProblem.exe
+D:\RandD\General\NQueenProblem\bin\Debug\netcoreapp3.1\NQueenProblem.deps.json
+D:\RandD\General\NQueenProblem\bin\Debug\netcoreapp3.1\NQueenProblem.runtimeconfig.json
+D:\RandD\General\NQueenProblem\bin\Debug\netcoreapp3.1\NQueenProblem.runtimeconfig.dev.json
+D:\RandD\General\NQueenProblem\bin\Debug\netcoreapp3.1\NQueenProblem.dll
+D:\RandD\General\NQueenProblem\bin\Debug\netcoreapp3.1\NQueenProblem.pdb
+D:\RandD\General\NQueenProblem\obj\Debug\netcoreapp3.1\NQueenProblem.csprojAssemblyReference.cache
+D:\RandD\General\NQueenProblem\obj\Debug\netcoreapp3.1\NQueenProblem.AssemblyInfoInputs.cache
+D:\RandD\General\NQueenProblem\obj\Debug\netcoreapp3.1\NQueenProblem.AssemblyInfo.cs
+D:\RandD\General\NQueenProblem\obj\Debug\netcoreapp3.1\NQueenProblem.csproj.CoreCompileInputs.cache
+D:\RandD\General\NQueenProblem\obj\Debug\netcoreapp3.1\NQueenProblem.dll
+D:\RandD\General\NQueenProblem\obj\Debug\netcoreapp3.1\NQueenProblem.pdb
+D:\RandD\General\NQueenProblem\obj\Debug\netcoreapp3.1\NQueenProblem.genruntimeconfig.cache
