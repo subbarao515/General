@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2FSQ/N3BH1xqfK1+/hF6M+oae/DWLPMcgXpoDtjecXyxA45qF6s+P/0VGP8ATIhu2ScUmnepgYYL5+wkAq9blA==",
+  "dgSpecHash": "nhdWoMQzJbkRPP8HTGTyhcPTw1xOmA9IvcFkPDQ99LqmCCy23N4AnQFQu9vzvXJ+CzYP+YxcMADSYrrY78yHxQ==",
   "success": true,
-  "projectFilePath": "D:\\RandD\\General\\NQueenProblem\\NQueenProblem.csproj",
+  "projectFilePath": "D:\\RandD\\General\\nqueenproblem\\NQueenProblem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

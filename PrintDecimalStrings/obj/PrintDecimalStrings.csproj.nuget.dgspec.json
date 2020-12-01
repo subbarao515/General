@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RandD\\General\\nqueenproblem\\NQueenProblem.csproj": {}
+    "D:\\randd\\general\\printdecimalstrings\\PrintDecimalStrings.csproj": {}
   },
   "projects": {
-    "D:\\RandD\\General\\nqueenproblem\\NQueenProblem.csproj": {
+    "D:\\randd\\general\\printdecimalstrings\\PrintDecimalStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RandD\\General\\nqueenproblem\\NQueenProblem.csproj",
-        "projectName": "NQueenProblem",
-        "projectPath": "D:\\RandD\\General\\nqueenproblem\\NQueenProblem.csproj",
+        "projectUniqueName": "D:\\randd\\general\\printdecimalstrings\\PrintDecimalStrings.csproj",
+        "projectName": "PrintDecimalStrings",
+        "projectPath": "D:\\randd\\general\\printdecimalstrings\\PrintDecimalStrings.csproj",
         "packagesPath": "C:\\Users\\subbarao_anaparthi\\.nuget\\packages\\",
-        "outputPath": "D:\\RandD\\General\\nqueenproblem\\obj\\",
+        "outputPath": "D:\\randd\\general\\printdecimalstrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

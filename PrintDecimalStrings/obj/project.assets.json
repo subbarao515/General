@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RandD\\General\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj",
-      "projectName": "NumbersPrintRecursion",
-      "projectPath": "D:\\RandD\\General\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj",
+      "projectUniqueName": "D:\\randd\\general\\PrintDecimalStrings\\PrintDecimalStrings.csproj",
+      "projectName": "PrintDecimalStrings",
+      "projectPath": "D:\\randd\\general\\PrintDecimalStrings\\PrintDecimalStrings.csproj",
       "packagesPath": "C:\\Users\\subbarao_anaparthi\\.nuget\\packages\\",
-      "outputPath": "D:\\RandD\\General\\NumbersPrintRecursion\\obj\\",
+      "outputPath": "D:\\randd\\general\\PrintDecimalStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

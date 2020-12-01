@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RandD\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj": {}
+    "D:\\RandD\\General\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj": {}
   },
   "projects": {
-    "D:\\RandD\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj": {
+    "D:\\RandD\\General\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RandD\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj",
+        "projectUniqueName": "D:\\RandD\\General\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj",
         "projectName": "NumbersPrintRecursion",
-        "projectPath": "D:\\RandD\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj",
+        "projectPath": "D:\\RandD\\General\\NumbersPrintRecursion\\NumbersPrintRecursion.csproj",
         "packagesPath": "C:\\Users\\subbarao_anaparthi\\.nuget\\packages\\",
-        "outputPath": "D:\\RandD\\NumbersPrintRecursion\\obj\\",
+        "outputPath": "D:\\RandD\\General\\NumbersPrintRecursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

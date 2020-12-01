@@ -1,0 +1,13 @@
+D:\randd\general\printdecimalstrings\bin\Debug\netcoreapp3.1\PrintDecimalStrings.exe
+D:\randd\general\printdecimalstrings\bin\Debug\netcoreapp3.1\PrintDecimalStrings.deps.json
+D:\randd\general\printdecimalstrings\bin\Debug\netcoreapp3.1\PrintDecimalStrings.runtimeconfig.json
+D:\randd\general\printdecimalstrings\bin\Debug\netcoreapp3.1\PrintDecimalStrings.runtimeconfig.dev.json
+D:\randd\general\printdecimalstrings\bin\Debug\netcoreapp3.1\PrintDecimalStrings.dll
+D:\randd\general\printdecimalstrings\bin\Debug\netcoreapp3.1\PrintDecimalStrings.pdb
+D:\randd\general\printdecimalstrings\obj\Debug\netcoreapp3.1\PrintDecimalStrings.csprojAssemblyReference.cache
+D:\randd\general\printdecimalstrings\obj\Debug\netcoreapp3.1\PrintDecimalStrings.AssemblyInfoInputs.cache
+D:\randd\general\printdecimalstrings\obj\Debug\netcoreapp3.1\PrintDecimalStrings.AssemblyInfo.cs
+D:\randd\general\printdecimalstrings\obj\Debug\netcoreapp3.1\PrintDecimalStrings.csproj.CoreCompileInputs.cache
+D:\randd\general\printdecimalstrings\obj\Debug\netcoreapp3.1\PrintDecimalStrings.dll
+D:\randd\general\printdecimalstrings\obj\Debug\netcoreapp3.1\PrintDecimalStrings.pdb
+D:\randd\general\printdecimalstrings\obj\Debug\netcoreapp3.1\PrintDecimalStrings.genruntimeconfig.cache
