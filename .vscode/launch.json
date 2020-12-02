@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/NumbersPrintRecursion/bin/Debug/netcoreapp3.1/NumbersPrintRecursion.dll",
+            "program": "${workspaceFolder}/GenerateAllsubsets/bin/Debug/netcoreapp3.1/GenerateAllsubsets.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/NumbersPrintRecursion",
+            "cwd": "${workspaceFolder}/GenerateAllsubsets",
             "console": "internalConsole",
             "stopAtEntry": false
         },

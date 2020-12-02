@@ -1,0 +1,13 @@
+D:\RandD\General\generateallsubsets\bin\Debug\netcoreapp3.1\GenerateAllsubsets.exe
+D:\RandD\General\generateallsubsets\bin\Debug\netcoreapp3.1\GenerateAllsubsets.deps.json
+D:\RandD\General\generateallsubsets\bin\Debug\netcoreapp3.1\GenerateAllsubsets.runtimeconfig.json
+D:\RandD\General\generateallsubsets\bin\Debug\netcoreapp3.1\GenerateAllsubsets.runtimeconfig.dev.json
+D:\RandD\General\generateallsubsets\bin\Debug\netcoreapp3.1\GenerateAllsubsets.dll
+D:\RandD\General\generateallsubsets\bin\Debug\netcoreapp3.1\GenerateAllsubsets.pdb
+D:\RandD\General\generateallsubsets\obj\Debug\netcoreapp3.1\GenerateAllsubsets.csprojAssemblyReference.cache
+D:\RandD\General\generateallsubsets\obj\Debug\netcoreapp3.1\GenerateAllsubsets.AssemblyInfoInputs.cache
+D:\RandD\General\generateallsubsets\obj\Debug\netcoreapp3.1\GenerateAllsubsets.AssemblyInfo.cs
+D:\RandD\General\generateallsubsets\obj\Debug\netcoreapp3.1\GenerateAllsubsets.csproj.CoreCompileInputs.cache
+D:\RandD\General\generateallsubsets\obj\Debug\netcoreapp3.1\GenerateAllsubsets.dll
+D:\RandD\General\generateallsubsets\obj\Debug\netcoreapp3.1\GenerateAllsubsets.pdb
+D:\RandD\General\generateallsubsets\obj\Debug\netcoreapp3.1\GenerateAllsubsets.genruntimeconfig.cache
